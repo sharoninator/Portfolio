@@ -24,6 +24,7 @@ This project is a demonstration tool for common website exploits. It allows you 
 
 <h2>Description</h2>
 Install and launch the program with the following commands:
+
 ```bash
 git clone https://github.com/sharoninator/Website-Security-Tool.git
 cd Website-Security-Tool/
@@ -32,6 +33,7 @@ node app.js
 ```
 
 Optional - Run Juice shop to the last exploits:
+
 ```bash
 git clone https://github.com/sharoninator/juice-shop.git
 sudo docker buildx build -t my-juice-shop .
