@@ -24,7 +24,7 @@ This project is a demonstration tool for common website exploits. It allows you 
 
 <p align="center">
 Installing and Launching the program: <br/>
-![image](https://github.com/user-attachments/assets/2a97c1c7-fef6-419f-984e-a8842c3d4750)
+<img src="https://github.com/user-attachments/assets/2a97c1c7-fef6-419f-984e-a8842c3d4750" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
