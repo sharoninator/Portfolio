@@ -3,12 +3,12 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This project is a demonstration tool for common website exploits. It allows you to run a website with very common vulnerabilities, and demonstrates the exploits that can be used against them. The exploit is deployed and the user can see how it works, and can read more about how to patch the vulnerability. This project demonstrates the following vulnerabilities: 
-<b>Default credentials</b>
-<b>Insecure design</b>
-<b> Path Traversal</b>
-<b>Software and Data Integrity Failures</b>
-<b>Security Logging and Monitoring Failures</b>
+This project is a demonstration tool for common website exploits. It allows you to run a website with very common vulnerabilities, and demonstrates the exploits that can be used against them. The exploit is deployed and the user can see how it works, and can read more about how to patch the vulnerability. This project demonstrates the following vulnerabilities: <br>
+ - <b>Default credentials</b>
+ - <b>Insecure design</b>
+ - <b>Path Traversal</b>
+ - <b>Software and Data Integrity Failures</b>
+ - <b>Security Logging and Monitoring Failures</b>
 
 
 <h2>Languages and Utilities Used</h2>
@@ -22,7 +22,7 @@ This project is a demonstration tool for common website exploits. It allows you 
 
 
 <h2>Description</h2>
-Install and launch the program with the following commands:
+Install and launch the program with the following commands: <br>
 ```
 git clone https://github.com/sharoninator/Website-Security-Tool.git
 cd Website-Security-Tool/
