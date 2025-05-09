@@ -1,8 +1,5 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Website Security Demonstration Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
-<h2>Description</h2>
 This project is a demonstration tool for common website exploits. It allows you to run a website with very common vulnerabilities, and demonstrates the exploits that can be used against them. The exploit is deployed and the user can see how it works, and can read more about how to patch the vulnerability. This project demonstrates the following vulnerabilities:
 
  - Default credentials
@@ -14,8 +11,8 @@ This project is a demonstration tool for common website exploits. It allows you 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Node.JS</b> 
-- <b>Express.JS</b>
+- Node.JS 
+- Express.JS
 
 <h2>Description</h2>
 Install and launch the program with the following commands:
