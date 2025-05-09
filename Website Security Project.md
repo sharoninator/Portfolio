@@ -3,18 +3,23 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project is a demonstration tool for common website exploits. It allows you to run a website with very common vulnerabilities, and demonstrates the exploits that can be used against them. The exploit is deployed and the user can see how it works, and can read more about how to patch the vulnerability. This project demonstrates the following vulnerabilities: 
+- Default credentials
+- Insecure design
+- Path Traversal
+- Software and Data Integrity Failures
+- Security Logging and Monitoring Failures
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Node.JS</b> 
+- <b>Express.JS</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Docker</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
