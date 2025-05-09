@@ -20,6 +20,23 @@ This project is a demonstration tool for common website exploits. It allows you 
 
 - <b>Docker</b> (21H2)
 
+
+<h2>Description</h2>
+Install and launch the program with the following commands:
+```
+git clone https://github.com/sharoninator/Website-Security-Tool.git
+cd Website-Security-Tool/
+npm install
+node app.js
+```
+
+Optional - Run Juice shop to the last exploits:
+```
+git clone https://github.com/sharoninator/juice-shop.git
+sudo docker buildx build -t my-juice-shop .
+sudo docker run -p 3000:3000 my-juice-shop
+```
+
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -27,16 +44,17 @@ Installing and Launching the program: <br/>
 <img src="https://github.com/user-attachments/assets/2a97c1c7-fef6-419f-984e-a8842c3d4750" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Running the default credentials exploit:  <br/>
+<img src="https://github.com/user-attachments/assets/cd1aa5d2-ef99-4ba1-bc16-20f2f8e13d0e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Running the path traversal exploit: <br/>
+<img src="https://github.com/user-attachments/assets/17247d69-0cd3-4e72-b9c2-15b41ce5d7d1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Running the insecure design exploit:  <br/>
+<img src="https://github.com/user-attachments/assets/8b3e2595-958d-4f42-87de-b4a85abf19a3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
