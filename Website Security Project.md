@@ -17,11 +17,6 @@ This project is a demonstration tool for common website exploits. It allows you 
 - <b>Node.JS</b> 
 - <b>Express.JS</b>
 
-<h2>Environments Used </h2>
-
-- <b>Docker</b> (21H2)
-
-
 <h2>Description</h2>
 Install and launch the program with the following commands:
 
@@ -32,7 +27,7 @@ npm install
 node app.js
 ```
 
-Optional - Run Juice shop to the last exploits:
+Optional - Run Juice shop to use the last two exploits:
 
 ```bash
 git clone https://github.com/sharoninator/juice-shop.git
@@ -59,18 +54,6 @@ Running the path traversal exploit: <br/>
 Running the insecure design exploit:  <br/>
 <img src="https://github.com/user-attachments/assets/8b3e2595-958d-4f42-87de-b4a85abf19a3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
