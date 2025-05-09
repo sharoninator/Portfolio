@@ -4,12 +4,11 @@
 
 <h2>Description</h2>
 This project is a demonstration tool for common website exploits. It allows you to run a website with very common vulnerabilities, and demonstrates the exploits that can be used against them. The exploit is deployed and the user can see how it works, and can read more about how to patch the vulnerability. This project demonstrates the following vulnerabilities: 
-- Default credentials
-- Insecure design
-- Path Traversal
-- Software and Data Integrity Failures
-- Security Logging and Monitoring Failures
-<br />
+<b>Default credentials</b>
+<b>Insecure design</b>
+<b> Path Traversal</b>
+<b>Software and Data Integrity Failures</b>
+<b>Security Logging and Monitoring Failures</b>
 
 
 <h2>Languages and Utilities Used</h2>
@@ -24,8 +23,8 @@ This project is a demonstration tool for common website exploits. It allows you 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installing and Launching the program: <br/>
+![image](https://github.com/user-attachments/assets/2a97c1c7-fef6-419f-984e-a8842c3d4750)
 <br />
 <br />
 Select the disk:  <br/>
