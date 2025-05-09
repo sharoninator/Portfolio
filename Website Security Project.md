@@ -5,11 +5,11 @@
 <h2>Description</h2>
 This project is a demonstration tool for common website exploits. It allows you to run a website with very common vulnerabilities, and demonstrates the exploits that can be used against them. The exploit is deployed and the user can see how it works, and can read more about how to patch the vulnerability. This project demonstrates the following vulnerabilities:
 
- - <b>Default credentials</b>
- - <b>Insecure design</b>
- - <b>Path Traversal</b>
- - <b>Software and Data Integrity Failures</b>
- - <b>Security Logging and Monitoring Failures</b>
+ - Default credentials
+ - Insecure design
+ - Path Traversal
+ - Software and Data Integrity Failures
+ - Security Logging and Monitoring Failures
 
 
 <h2>Languages and Utilities Used</h2>
@@ -26,8 +26,9 @@ cd Website-Security-Tool/
 npm install
 node app.js
 ```
+You can open the application by going to http://localhost:3001 in a web browser.
 
-Optional - Run Juice shop to use the last two exploits:
+(Optional) Run Juice shop to use the last two exploits:
 
 ```bash
 git clone https://github.com/sharoninator/juice-shop.git
